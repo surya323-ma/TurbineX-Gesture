@@ -1,9 +1,8 @@
-# Jet Engine — Gesture-Controlled 3D Explorer
+# TurbineX Gesture —  Controlled 3D Explorer
 
 A full-screen wireframe exploded-view jet engine controlled with your bare hand via webcam.
 Three.js + MediaPipe Hand Landmarker, 100% in the browser. No backend, no build step.
 
-Creator: #dev/creator-tubakhxn
 
 ## Run
 Webcam needs `http://localhost` or `https://` (do not double-click index.html).
