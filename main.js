@@ -1,4 +1,4 @@
-// #dev/creator-tubakhxn
+
 import * as THREE from 'three';
 
 const TAU = Math.PI * 2;
